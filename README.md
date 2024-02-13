@@ -1,6 +1,5 @@
 
 ### Hello World! 👋
-Physics undergrad here, who pivoted to data & business transformation
 
 I like working on things that make people's lives easier!✨
 
@@ -10,4 +9,4 @@ I like working on things that make people's lives easier!✨
 ✉️ Connect ... at asangwan@usc.edu OR https://www.linkedin.com/in/sangwanaakanksha/ <br />
 🌳 When not online ... I am hiking/gardening/doing random coding/dancing/vibing to rock muzic! <br />
 
-
+Scientist by nurture, Empath by nature! 
